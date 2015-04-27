@@ -1,4 +1,4 @@
-# <a href="http://ozan.io/california-academic-performance-index-data/">California Academic Performance Index Data</a>
+# <a href="http://ozan.io/california-academic-performance-index-data/">California API Data</a>
 
 > The Academic Performance Index (API) is a measurement of academic performance and progress of individual schools in California.
 
